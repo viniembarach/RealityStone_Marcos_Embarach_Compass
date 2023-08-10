@@ -1,0 +1,1 @@
+Dia 3 foi marcado pela instalação do Cmder, Ruby devkit-2.5.3-1 e extensões do Visual Studio Code.
