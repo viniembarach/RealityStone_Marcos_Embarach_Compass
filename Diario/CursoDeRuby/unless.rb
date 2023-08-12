@@ -1,0 +1,10 @@
+product_status = 'closed'
+
+#pode se usar o if not no lugar do unless
+unless product_status == 'open'
+    check_change = 'can'
+else
+    check_change = 'can not'
+end
+
+puts "You #{check_change} change the product"

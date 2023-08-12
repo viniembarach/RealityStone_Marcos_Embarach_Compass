@@ -1,0 +1,1 @@
+Dia 4 Foi dedicado as aulas de ruby e alguns exercícios. Colocando em pratica o aprendizado das aulas.
