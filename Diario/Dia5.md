@@ -1,0 +1,1 @@
+Dia 5 foi marcado para fazer exercicios de Ruby.
