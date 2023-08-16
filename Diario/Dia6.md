@@ -1,0 +1,1 @@
+Dia 6 foi dedicado para fazer os exerccios de fixação utilizando o Ruby Koans.
