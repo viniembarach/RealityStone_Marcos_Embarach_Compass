@@ -1,16 +1,27 @@
-# Programa de Bolsas Compass - RealityStone QA
+# Programa de Bolsas Compass - Ruby e Versionamento de Código
 
-## Sobre o projeto
+# Indice
 
-Esse repositório está sendo utilizado para o acompanhamento e aprendizado na trilha de QA do Programa de Bolsas da Compass.
+- [Sobre](#sobre)
+- [Conteúdo](#conteúdo)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Autor](#autor)
 
-## Objetivo
+## Sobre
 
-Com o aprendizado do Programa de Bolsas, neste repositório estará meus conhecimentos em Teste e Automação de Testes de software com Ruby.
+Este repositório tem como objetivo aprimorar o conhecimento do conteúdo da Sprint 4 do Programa de Bolsas da Compass.uol.
+
+## Conteúdo
+
+- Git para versionamento de arquivos;
+- GitHub para compartilhamento e armazenamento de código versionado;
+- Linguagem de programação Ruby;
+- Ruby Koans: Aprendendo a linguagem com o auxílio de testes unitários;
+- TDD: Test Driven Development;
 
 ## Tecnologias utilizadas
-- Cucumber
 - Ruby
+- TDD
 
 
 ## Autor
